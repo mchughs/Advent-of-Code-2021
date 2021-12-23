@@ -1,4 +1,5 @@
 (ns day22.givingup
+  "solution taken from https://github.com/wevre/advent-of-code/blob/master/src/advent_of_code/2021/day_22.clj"
   (:require [clojure.string :as str]))
 
 ;;; Parse input.

@@ -43,3 +43,4 @@
 ;; Part 2
 
 ;; parsing the axes as :x :y :z instead of positionally wasn't a good choice.
+;; the idea was to split the larger prism areas into sub-prisms, like the view of a depressed cubic divided up into prisms
