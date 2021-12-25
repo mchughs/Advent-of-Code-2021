@@ -1,3 +1,3 @@
-Advent of Code 2020 solutions
+Advent of Code 2021 solutions
 
-![Image of Proof of Completion](/images/50stars2020.png)
+![Image of Proof of Completion](/images/50stars2021.png)
